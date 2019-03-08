@@ -5,7 +5,7 @@ body{
 }
 /* sect1*/
 #sect1{
-    background-image: url(../img/annie-spratt-65068-unsplash.jpg);
+    background-image: url(../img/rawpixel-1130125-unsplash.jpg);
     height: 550px;
     background-size: cover;
 }
@@ -24,7 +24,7 @@ body{
     
 }
 .nav img{
-    margin-left: 50px;
+    margin-left: 5kw0px;
     
 }
 .nav{
@@ -50,13 +50,14 @@ body{
 margin-left: auto;
 margin-right: auto;
 font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-color: darkgray;
+color: rgb(235, 229, 229);
 
 }
     #inn h1{
         margin-top: 20%;
         font-size: 35px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: #dad7d2;
     }
     .contact{
         height: 20px;
@@ -74,7 +75,7 @@ color: darkgray;
 /*second section*/
 #sect2{
     height: 300px;
-    background-color: azure;
+    background-color: rgb(235, 229, 229);
     padding: 0;
     margin: 0;
 }
@@ -107,10 +108,10 @@ color: darkgray;
 #sect3{
     height: 500px;
     clear: both;
-    background-color:#061e29;
+    background-color:#dad7d2;
 }
 .dright{
-    background-image: url(../img/alexander-mils-139941-unsplash.jpg);
+    background-image: url(../img/joanna-kosinska-476268-unsplash.jpg);
     background-size: cover;
     width: 50%;
     float: right;
@@ -120,4 +121,119 @@ color: darkgray;
     float: left;
     width: 50%;
     height: 500px;
+}
+.in{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20%;
+}
+.in h1{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 26px;
+    
+}
+.in h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.in span{
+    padding-left: 10px;
+}
+
+/* sect4 */
+
+#sect4{
+    margin: 0;
+    padding: 0;
+    background-color:rgb(63, 173, 177);
+    height: 200px;;
+}
+.img{
+    font-size:50px;
+    margin-left: 30px;
+}
+.numb{
+    font-size: 20px;
+    margin-left: 20px;
+    
+    
+}
+.inn{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 7%;
+}
+.innn{
+    display: inline;
+    margin-left: 80px;
+}
+.innn1{
+    display: inline;
+}
+.innn1 h3{
+    display: inline;
+}
+
+
+/* section five */
+#sect5{
+    height: 500px;
+    background-color: rgb(226, 221, 230);
+    padding: 0;
+    margin: 0;
+}
+.col{
+    width: 25%;
+    height: 250px;
+    background-color: rgb(63, 173, 177);
+    display: inline-block;
+    margin-right: -4px;
+    background-size: contain;
+    
+}
+.col1{
+    width: 25%;
+    height: 250px;
+    background-color: #f9f9fa;
+    display: inline-block;
+    margin-right: -4px;
+    background-size: contain;
+    
+}
+.colin{
+    height: 200px;
+    width: 60%;
+    margin: 0 auto;
+    padding-top: 15%;
+
+}
+.col img{
+    height: 80%;
+    width: 80%;
+}
+.col1 img{
+    height: 80%;
+    width: 80%; 
+}
+.lon{
+    height: 100px;
+    background-color: #f9f9fa;
+    
+}
+.lon a{
+    text-decoration-line: none;
+    color: burlywood;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.lonn{
+    height: 20px;
+    width:150px;
+    
+    margin:0 auto;
+    padding: 20px;
+    margin-top: 35px !important;
 }
