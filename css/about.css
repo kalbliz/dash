@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin-left: 30px;
+}
+
+nav ul
+{
+    display: inline;
+    margin-left: 900px;
+}
+nav img{
+    margin-left: 50px;
+    
+}
+nav{
+    padding: 20px;
+    background-color: #eeeff1;
+}
+a{
+    text-decoration-line: none;
+    color: black;
+}
+#center{
+    margin:  0 auto;
+    width: 400px;
+    text-align: center;
+    
+   
+}
+#amelia{
+    background-image: url(../img/julia-caesar-245794-unsplash.jpg);
+    
+    height: 400px;
+     background-clip: content-box;
+     display: block;
+     background-size: cover;
+     background-repeat: no-repeat;
+     
+    
+}
+#center h1{
+    margin-top:0;
+    padding-top: 120px;
+    color: #f4f6f6;
+}
+#center p{
+    color: #f4f6f6;
+}
+#mid{
+    height: 145px;
+
+    padding: 0 30px;
+    width: 90%;
+    margin: 0 auto;
+}
+#midd{
+    height: 145px;
+    background-color: #eeeff1;
+}
+i{
+  font-size: 60px;
+  padding-top: 35px;
+  padding-left: 20px;
+
+}
+p{
+    margin-top: 0;
+}
+.sub{
+    display: inline-block;
+    width: 250px;
+    margin-left: 50px;
+    
+}
+.sub h3{
+    padding: 0;
+    display: inline;
+    
+}
+#class{
+    height: 550px;
+    background-color: #eeeff1;
+    display: flex;
+    clear: both;
+}
+.dleft{
+
+    float: left;
+    width: 50%;
+}
+.dright{
+    float: right;
+    width: 50%;
+    background-color: #eeeff1;
+    
+    
+}
+.dright p{
+    width: 400px;
+    text-align: left;
+
+}
+.inner{
+    width: 400px;
+    margin-top: 30%;
+    margin-left: 25%;
+
+}
+#lower{
+    background-color: #eeeff1;
+    
+    height: 270px;
+}
+h2{
+    margin: 0;
+}
+.midd{
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+.midd h2{
+    padding-top: 70px;
+}
+.btn{
+    background-color: darkcyan;
+    width: 100px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+#footer{
+    height: 200px;
+    background-color:#2e302e;
+    padding: 30px;
+}
+ .container{
+           clear: both;
+ }
+
+.footer h4{
+    padding-top: 40px;
+    color: white;
+}
+.footer p{
+    color: white;
+}
+.footer{
+    width: 240px;
+    padding-left: 70px;
+    display: inline;
+    float: left;
+    margin-top: -10px;
+    font-size: 20px;
+}
+.mix{
+    width: 100px;
+    padding-top: 20px;
+    display: inline;
+    float: left;
+
+}
+.mix ul li{
+    display: block;
+    font-size: 20px;
+    letter-spacing: 2px;
+}
+.mixx{
+    width: 100px;
+    padding: 55px;
+    display: inline;
+    float: left;
+    margin-left: 90px;
+    margin-top: -5px;
+    font-size: 20px;
+}
+.mixxx{
+    width: 100px;
+    padding-top: 20px;
+    margin-left: 120px;
+    float: left;
+    display: inline;
+}
+.mixxx ul li{
+    display: block;
+    font-size: 20px;
+    letter-spacing: 2px;
+    
+}
+#class .dleft img{
+    max-width: 100%;
+    max-height: 100%;
+}

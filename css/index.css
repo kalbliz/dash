@@ -1,0 +1,123 @@
+/*body*/
+body{
+    margin: 0;
+    padding: 0;
+}
+/* sect1*/
+#sect1{
+    background-image: url(../img/annie-spratt-65068-unsplash.jpg);
+    height: 550px;
+    background-size: cover;
+}
+.nav ul li {
+    display: inline;
+    margin-left: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+}
+
+.nav ul
+{
+    display: inline-block;
+    margin-left: 600px;
+    background-clip: content-box;
+    
+}
+.nav img{
+    margin-left: 50px;
+    
+}
+.nav{
+    padding: 20px;
+    
+    height: 30px;
+}
+.nav ul li a{
+    text-decoration-line: none;
+    color: black;
+}
+.active{
+     color: aqua !important;    
+}
+#inn{
+    width: 50%;
+    float: right;
+    text-align: center;
+}
+#inn p{
+    width: 400px;
+    font-size: 18px;
+margin-left: auto;
+margin-right: auto;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: darkgray;
+
+}
+    #inn h1{
+        margin-top: 20%;
+        font-size: 35px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .contact{
+        height: 20px;
+        width: 100px;
+        background-color: aqua;
+        margin: 0 auto;
+        padding: 20px;
+    }
+.contact a{
+    text-decoration: none;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*second section*/
+#sect2{
+    height: 300px;
+    background-color: azure;
+    padding: 0;
+    margin: 0;
+}
+.sect2{
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    
+}
+.sect2 h1{
+    margin-top: 0;
+    
+    margin-left: 200px;
+    margin-right: auto;
+}
+.sect2 img{
+    margin-left: 120px;
+}
+.sect2 p{
+    width: 600px;
+    font-size: 18px;
+margin-left: auto;
+margin-right: auto;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', ;
+color: darkgray;
+}
+
+/*section three*/
+#sect3{
+    height: 500px;
+    clear: both;
+    background-color:#061e29;
+}
+.dright{
+    background-image: url(../img/alexander-mils-139941-unsplash.jpg);
+    background-size: cover;
+    width: 50%;
+    float: right;
+    height: 500px;
+}
+.dleft{
+    float: left;
+    width: 50%;
+    height: 500px;
+}
